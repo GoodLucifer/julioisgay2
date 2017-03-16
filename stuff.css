@@ -1,0 +1,10 @@
+h1 {
+	text-align: center; color: blue;
+}
+
+body {background: url(https://media.giphy.com/media/fop5eTlBCgFCE/giphy.gif); background-size: cover;}
+
+body {padding:  500px, 500px, 500px, 500px;}
+
+h1 {border: 25px solid blue;}
+div {text-align: center}
